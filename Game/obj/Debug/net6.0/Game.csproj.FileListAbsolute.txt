@@ -1,0 +1,12 @@
+/Users/lukebartholomew/Projects/SpeedServer/Game/bin/Debug/net6.0/Game.deps.json
+/Users/lukebartholomew/Projects/SpeedServer/Game/bin/Debug/net6.0/Game.dll
+/Users/lukebartholomew/Projects/SpeedServer/Game/bin/Debug/net6.0/Game.pdb
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.csproj.AssemblyReference.cache
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.AssemblyInfoInputs.cache
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.AssemblyInfo.cs
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.csproj.CoreCompileInputs.cache
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.dll
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/refint/Game.dll
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/Game.pdb
+/Users/lukebartholomew/Projects/SpeedServer/Game/obj/Debug/net6.0/ref/Game.dll

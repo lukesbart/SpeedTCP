@@ -1,0 +1,15 @@
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/bin/Debug/net6.0/TestClient.deps.json
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/bin/Debug/net6.0/TestClient.dll
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/bin/Debug/net6.0/TestClient.pdb
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.csproj.AssemblyReference.cache
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.AssemblyInfoInputs.cache
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.AssemblyInfo.cs
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.csproj.CoreCompileInputs.cache
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.dll
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/refint/TestClient.dll
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.pdb
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/ref/TestClient.dll
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/bin/Debug/net6.0/TestClient
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/bin/Debug/net6.0/TestClient.runtimeconfig.json
+/Users/lukebartholomew/Projects/SpeedServer/TestClient/obj/Debug/net6.0/TestClient.genruntimeconfig.cache
